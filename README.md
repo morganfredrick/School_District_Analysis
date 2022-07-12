@@ -1,5 +1,14 @@
 # School_District_Analysis
 
+Click here to view data:
+
+[schools_complete.csv](https://github.com/morganfredrick/School_District_Analysis/blob/main/Resources/schools_complete.csv) // 
+[students_complete.csv](https://github.com/morganfredrick/School_District_Analysis/blob/main/Resources/students_complete.csv)
+
+Click here to view file:
+
+[PyCitySchools_Challenge](https://github.com/morganfredrick/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+
 ## Overview
 
 The purpose of this analysis is to replace the inaccurate data for the 9th graders at Thomas High School while keeping the rest of the data intact. The analysis provided insight into the performance of schools within the district, namely math and reading scores, and their relationship to other metrics. To showcase trends in school performance, the analysis focuses on the following:
